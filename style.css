@@ -1,0 +1,138 @@
+v/* Umumiy stillar */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #2b1616;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: #f5e5d0;
+  margin: auto;
+  border: 10px solid #8b1d1d;
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background: cyan;
+  text-align: center;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: white;
+}
+
+/* Cardlar */
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px;
+  max-width: 350px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.card h2 {
+  margin: 10px 0;
+}
+
+.card p {
+  color: #555;
+}
+
+.card button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  margin-top: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.card button:hover {
+  background: #444;
+}
+/* Umumiy stillar */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #2b1616;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: #f5e5d0;
+  margin: auto;
+  border: 10px solid #8b1d1d;
+  box-sizing: border-box;
+}
+
+/* Header */
+header {
+  background: cyan;
+  text-align: center;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  color: white;
+}
+
+/* Cardlar */
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px;
+  max-width: 350px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.card h2 {
+  margin: 10px 0;
+}
+
+.card p {
+  color: #555;
+}
+
+.card button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  margin-top: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.card button:hover {
+  background: #444;
+}
